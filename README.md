@@ -2,19 +2,19 @@
 
 A web application to manage employees with Create, Read, Update, and Delete (CRUD) functionality.
 
-##  Features
+Features
 - Add new employees
 - View employee list
 - Update employee details
 - Delete employees
 - API integration with Node.js backend
 
-## 🛠 Tech Stack
+Tech Stack
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Node.js, Express
 - **Database:** MongoDB
 
-## Installation
+Installation
 1. Clone the repo:
    ```bash
    git clone https://github.com/<username>/employee-management-system.git
